@@ -3,13 +3,11 @@
 # 💫 Hola, soy Anghelo Leiva 👋  
 
 💡 Profesional motivado, con muchas ganas de aprender y aportar valor  
-a través de la tecnología y la innovación.  
-
-🚀 Durante mi formación académica y personal desarrollé proyectos  
-enfocados en la resolución de problemas reales y el trabajo en equipo.  
+a través de la tecnología y la innovación Durante mi formación académica 
+y personal desarrollé proyectos enfocados en la resolución de problemas 
+reales y el trabajo en equipo.  
 
 ---
-
 ## 💻 Tecnologías  
 
 <p>
@@ -33,12 +31,10 @@ enfocados en la resolución de problemas reales y el trabajo en equipo.
 
 ---
 
-## 📊 Estadísticas de GitHub  
+## 📊 Estadísticas de GitHub 
 
 <img src="https://github-readme-stats.vercel.app/api?username=AngheloLeivaC&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=AngheloLeivaC&theme=dark&hide_border=false" height="160"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngheloLeivaC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
 
 ---
 
