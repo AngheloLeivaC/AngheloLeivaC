@@ -35,18 +35,6 @@
   <img src="https://streak-stats.demolab.com?user=AngheloLeivaC&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngheloLeivaC&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
----
-
-## 🏆 Logros  
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=AngheloLeivaC&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 <img src="https://visitcount.itsvg.in/api?id=AngheloLeivaC&icon=5&color=6" />
