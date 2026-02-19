@@ -31,11 +31,10 @@
 ## 📊 Estadísticas de GitHub  
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AngheloLeivaC&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AngheloLeivaC&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
-
 
 ✨ Gracias por visitar mi perfil ✨  
 
